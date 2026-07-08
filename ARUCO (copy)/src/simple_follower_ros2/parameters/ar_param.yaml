@@ -1,0 +1,7 @@
+rate: 10
+goal_x: 0.6
+goal_y: 0.0
+max_angular_speed: 0.75
+min_angular_speed: -0.75
+max_linear_speed: 0.35
+min_linear_speed: -0.21
