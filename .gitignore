@@ -1,0 +1,16 @@
+# Build and install artifacts
+**/build/
+**/install/
+**/log/
+
+# Python cache
+**/__pycache__/
+**/*.py[cod]
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
